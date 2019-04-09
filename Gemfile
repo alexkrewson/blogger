@@ -16,6 +16,7 @@ group :production do
   gem 'pg'
 end
 
+gem "paperclip"
 
 
 # Use Puma as the app server
